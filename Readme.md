@@ -3,7 +3,7 @@
 
 * [EntityServerModeCRUDBehavior.cs](./CS/CRUDBehavior/EntityServerModeCRUDBehavior.cs) (VB: [EntityServerModeCRUDBehavior.vb](./VB/CRUDBehavior/EntityServerModeCRUDBehavior.vb))
 * [MainWindow.xaml](./CS/EntityServer/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/EntityServer/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/EntityServer/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/EntityServer/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/EntityServer/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/EntityServer/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to implement CRUD operations using DXGrid and Entity Framework (Server Mode)
 
